@@ -1,1 +1,1 @@
-First check in and commit
+First check in to local branch and commit to remote branch
